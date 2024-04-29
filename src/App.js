@@ -1,5 +1,5 @@
 import React from 'react'
-import Showprofile from './Components/ShowProfile';
+import ShowProfile from './Components/Showprofile';
 
 function App() {
     return (
