@@ -4,7 +4,7 @@ import Showprofile from './Components/ShowProfile';
 function App() {
     return (
         <div>
-            <Showprofile/>
+            <ShowProfile/>
         </div>
     )
 }
