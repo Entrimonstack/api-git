@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import DisplayProfile from './DisPlayProfile';
+import DisplayProfile from './DisplayProfile';
 function ShowProfile() {
     const [userName,setUserName] = useState("");
     const [data,setData] = useState({});
