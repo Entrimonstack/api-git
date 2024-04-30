@@ -8,7 +8,7 @@ function DisplayProfile({ data }) {
             <div className="card p-3">
                 <div className="d-flex align-items-center">
                     <div className="image"> 
-                    <img src={data.avatar_url}className="rounded" width="155"/> 
+                    <img src={data.avatar_url}className="rounded" alt="" width="155"/> 
                     </div>
                     <div className="ml-3 w-100">
                         <h4 className="mb-0 mt-0">{data.login}</h4><span>{data.bio}</span>
